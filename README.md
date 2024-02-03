@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Spring Boot in Java, Rest API etc.**
 
-- 👨‍💻 All of my projects are available at [https://hiteshodedara.github.io/mywebsite/](https://hiteshodedara.github.io/mywebsite/)
+- 👨‍💻 All of my projects are available at [https://hiteshodedara.github.io/mywebsite/](https://hiteshodedara.github.io/odedarahitesh/)
 
 - 💬 Ask me about **Java And Python**
 
 - 📫 How to reach me **Odedarahitesh@hotmail.com**
 
-- 📄 Know about my experiences [https://hiteshodedara.github.io/mywebsite/mycv.pdf](https://hiteshodedara.github.io/mywebsite/mycv.pdf)
+- 📄 Know about my experiences [https://hiteshodedara.github.io/mywebsite/mycv.pdf](https://hiteshodedara.github.io/odedarahitesh/NewAngularCV.pdf)
 
 - ⚡ Fun fact **I To Much Thinking For Every Thing.**
 

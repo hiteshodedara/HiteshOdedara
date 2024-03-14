@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
-<h3 align="center">A Learning Java development in Gujrat India</h3>
+<h3 align="center">A Learning Angular development in Gujrat India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshodedara&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshodedara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshodedara" alt="hiteshodedara" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot in Java, Rest API etc.**
+- 🌱 I’m currently learning **Angular Framework**
 
 - 👨‍💻 All of my projects are available at [https://hiteshodedara.com](https://hiteshodedara.github.io/odedarahitesh/)
 
-- 💬 Ask me about **Java And Python**
+- 💬 Ask me about **Angular, Java And Python**
 
 - 📫 How to reach me **Odedarahitesh@hotmail.com**
 
